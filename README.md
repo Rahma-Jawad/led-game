@@ -1,4 +1,4 @@
-# led game
+# Clock
 
 
 
@@ -11,7 +11,7 @@
 
 ## What It Does
 
-led game
+its a basic clock with stop wtch feature added to it
 
 
 ## How It Works
