@@ -2,7 +2,7 @@
 
 
 
-
+![Clock](screenshot.png)
 
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.3 hours of work.
